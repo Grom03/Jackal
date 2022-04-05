@@ -1,1 +1,1 @@
-# Web_Jackal
+# Frontend-часть разработки веб-версии игры Jackal
